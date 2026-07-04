@@ -12,9 +12,7 @@ An end-to-end Machine Learning project that recommends the most suitable crop fr
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Status](https://img.shields.io/badge/Status-Ready%20to%20Run-brightgreen)
 
-[🌐 Public Project URL](https://github.com/Rajendra-523/OptiCrop-Smart-Agricultural-Production-Optimization-Engine) ·
-[👤 Author: BURLAGADDA RAJENDRA](https://github.com/Rajendra-523) ·
-[💻 GitHub ID: @Rajendra-523](https://github.com/Rajendra-523)
+[Public Project URL](https://github.com/Rajendra-523/OptiCrop-Smart-Agricultural-Production-Optimization-Engine)
 
 </div>
 
@@ -533,7 +531,6 @@ Copyright © 2026 **BURLAGADDA RAJENDRA**
 
 - GitHub ID: [@Rajendra-523](https://github.com/Rajendra-523)
 - GitHub Profile: [https://github.com/Rajendra-523](https://github.com/Rajendra-523)
-- Public Project URL: [https://github.com/Rajendra-523/OptiCrop-Smart-Agricultural-Production-Optimization-Engine](https://github.com/Rajendra-523/OptiCrop-Smart-Agricultural-Production-Optimization-Engine)
 
 ---
 
