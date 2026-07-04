@@ -442,11 +442,9 @@ Start the app:
 python run.py
 ```
 
-Open these URLs:
+Open the app:
 
-- [Home](http://127.0.0.1:5000/)
-- [About](http://127.0.0.1:5000/about)
-- [Find Your Crop](http://127.0.0.1:5000/find-your-crop)
+[Open the app](http://127.0.0.1:5000)
 
 ---
 
