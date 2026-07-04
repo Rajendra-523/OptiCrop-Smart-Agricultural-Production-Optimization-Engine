@@ -253,9 +253,7 @@ python run.py
 
 Open in browser:
 
-```text
-http://127.0.0.1:5000
-```
+[Open the app](http://127.0.0.1:5000)
 
 ### Option 2: Quick Start App Only
 
@@ -267,9 +265,7 @@ python run.py
 
 Then open:
 
-```text
-http://127.0.0.1:5000
-```
+[Open the app](http://127.0.0.1:5000)
 
 ### Option 3: Use the Command-Line Predictor
 
@@ -448,11 +444,9 @@ python run.py
 
 Open these URLs:
 
-```text
-http://127.0.0.1:5000/
-http://127.0.0.1:5000/about
-http://127.0.0.1:5000/find-your-crop
-```
+- [Home](http://127.0.0.1:5000/)
+- [About](http://127.0.0.1:5000/about)
+- [Find Your Crop](http://127.0.0.1:5000/find-your-crop)
 
 ---
 
